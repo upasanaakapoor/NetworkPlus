@@ -1,0 +1,33 @@
+#TCP:
+
+FTP - 20(Active mode)
+      21(Control info)
+SSH - 22
+SFTP - 22
+Telnet- 23
+SNMP - 25
+TACACS+ - 49
+HTTP - 80
+POP3 - 110
+IMAP- 143
+LDAP - 389
+HTTPS - 443
+SMB - 445
+LDAPS - 636
+H.323 - 1720
+RDP - 3389
+SIP - 5060 or 5061
+
+
+
+#UDP:
+
+DNS - 53
+DHCP - 67,68
+TFTP - 69
+NTP - 123
+SNMP - 161
+RADIUS - 1812-1813 or
+         1645-1646
+
+# DNS- TCP/UDP
